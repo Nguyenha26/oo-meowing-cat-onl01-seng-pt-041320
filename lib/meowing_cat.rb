@@ -7,7 +7,3 @@ class Cat
   
   end
 end
-
-leia = Cat.new 
-leia.name = "Leia"
-leia.meow
