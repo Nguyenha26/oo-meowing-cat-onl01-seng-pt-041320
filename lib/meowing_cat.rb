@@ -1,5 +1,6 @@
-def Cat 
+class Cat 
   
+  def 
   
   
   
